@@ -16,7 +16,7 @@ Note that:
 
 Project template has been added to the git, please allocate your topic
 
-Finn - Software Engineering
-Anh -
-Adam -
-Nam -
+* Finn - Software Engineering
+* Anh -
+* Adam -
+* Nam -

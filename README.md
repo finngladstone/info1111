@@ -12,7 +12,7 @@ Level 1 is 'compulsory', level 2 is optional
 Note that:
 * We have to submit the file as a rendered latex file:
 * We each have to choose a subject from - Compsci, Soft Engineering, Datasci, Cybersec
-* We are individually assessed (?)
+* We are individually assessed (?), however there are some components besides the aforementioned subjects that we need to complete 
 
 Project template has been added to the git, please allocate your topic
 
@@ -20,3 +20,6 @@ Project template has been added to the git, please allocate your topic
 * Anh -
 * Adam -
 * Nam -
+
+To edit the latex file, i've had to install a latex distro AND editor; I recommend you look online for each to find one that suits your purposes / OS 
+

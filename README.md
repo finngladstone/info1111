@@ -18,7 +18,7 @@ Project template has been added to the git, please allocate your topic
 
 * Finn - Software Engineering
 * Anh -
-* Adam -
+* Adam - Data Science
 * Nam -
 
 To edit the latex file, i've had to install a latex distro AND editor; I recommend you look online for each to find one that suits your purposes / OS 
